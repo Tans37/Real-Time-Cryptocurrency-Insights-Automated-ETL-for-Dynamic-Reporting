@@ -129,7 +129,7 @@ PS: You would also need to insert your api keys to fetch data.
 ## 📬 Contact
 
 **Tanishq Sharma**  
-[LinkedIn](https://linkedin.com/in/tans37)
+[LinkedIn](https://www.linkedin.com/in/tanishq-sharma-ts)
 
 ---
 
