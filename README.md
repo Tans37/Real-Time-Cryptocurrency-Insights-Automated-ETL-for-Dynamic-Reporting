@@ -65,14 +65,6 @@ A modular pipeline that collects real-time cryptocurrency prices and news, proce
 └── README.md
 ```
 
----
-
-## 📊 Streamlit Dashboard Preview
-
-![Dashboard Preview](assets/dashboard_mockup.png) <!-- replace with actual screenshot path -->
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
