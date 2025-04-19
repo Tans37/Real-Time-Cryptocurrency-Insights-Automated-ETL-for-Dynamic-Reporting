@@ -103,7 +103,7 @@ python run_hourly_forecast.py bitcoin
 ```bash
 streamlit run dashboard/app.py
 ```
-
+PS: You would also need to insert your api keys to fetch data.
 ---
 
 ## 🧠 Prediction Example
@@ -129,10 +129,7 @@ streamlit run dashboard/app.py
 ## 📬 Contact
 
 **Tanishq Sharma**  
-[LinkedIn](https://linkedin.com/in/tans37) | tans37.github.io | tans37@rutgers.edu
+[LinkedIn](https://linkedin.com/in/tans37)
 
 ---
 
-## 📝 License
-
-MIT License
