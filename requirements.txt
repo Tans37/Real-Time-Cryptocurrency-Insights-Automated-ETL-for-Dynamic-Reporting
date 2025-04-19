@@ -1,0 +1,9 @@
+requests
+kafka-python
+pyspark
+textblob
+psycopg2-binary
+streamlit
+pandas
+plotly
+tensorflow
