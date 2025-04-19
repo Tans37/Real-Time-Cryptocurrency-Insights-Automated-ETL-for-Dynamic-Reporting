@@ -1,8 +1,12 @@
 # 📊 Real-Time Cryptocurrency Insights: Automated ETL for Dynamic Reporting
 
+A real-time crypto analytics platform that streams, analyzes, and forecasts cryptocurrency trends using Kafka, Spark, LSTM, and Streamlit.
+
 A modular pipeline that collects real-time cryptocurrency prices and news, processes them using Apache Spark, performs technical and sentiment analysis, predicts future prices using LSTM models, and visualizes everything through an interactive Streamlit dashboard.
 
 ---
+![Dashboard ss](https://github.com/user-attachments/assets/5f74378f-6d7e-4ccd-8945-badf58bd3228)
+
 
 ## 🚀 Features
 
@@ -19,13 +23,6 @@ A modular pipeline that collects real-time cryptocurrency prices and news, proce
 
 ---
 
-## 🔌 APIs Used
-
-- **[CoinGecko API](https://www.coingecko.com/en/api)**: Provides real-time market data for cryptocurrencies including price, volume, and market cap.
-- **[CryptoPanic API](https://cryptopanic.com/developers/api/)**: Streams crypto-related news headlines for sentiment analysis.
-
----
-
 ## ⚙️ Tech Stack
 
 - **Kafka**: Real-time producers for crypto prices and news
@@ -34,6 +31,13 @@ A modular pipeline that collects real-time cryptocurrency prices and news, proce
 - **LSTM Model (Keras/TensorFlow)**: Hourly price forecasting
 - **Streamlit + Plotly**: Dashboard with charts & metrics
 - **TextBlob**: News sentiment polarity scoring
+
+---
+
+## 🔌 APIs Used
+
+- **[CoinGecko API](https://www.coingecko.com/en/api)**: Provides real-time market data for cryptocurrencies including price, volume, and market cap.
+- **[CryptoPanic API](https://cryptopanic.com/developers/api/)**: Streams crypto-related news headlines for sentiment analysis.
 
 ---
 
